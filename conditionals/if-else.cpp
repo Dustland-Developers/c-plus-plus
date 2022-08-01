@@ -12,6 +12,8 @@ int main (void) {
    else {
       cout << "positive." << endl;
    }
-
-
+   return 0;
 }
+
+/* Output : -4
+           Input Integer is : neagtive. */
