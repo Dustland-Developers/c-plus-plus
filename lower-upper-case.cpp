@@ -20,3 +20,4 @@ int main (){
 }
 /* Output : z
             This is lower case. */
+//we can also use ASCII values.
