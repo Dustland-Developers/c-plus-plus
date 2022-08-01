@@ -19,6 +19,6 @@ int main (){
 
 
 /* output : 0
-            My Instagram Account : @adityavijay21
+            My Instagram Account : @adityavijay21 */
             
   
