@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(
-        trees.exe trees.cpp
+        c-plus-plus Trees Algorithm/bst.cpp
 
         )
